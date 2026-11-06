@@ -1,6 +1,6 @@
 # Self-phase-modulation-assisted DPS-QKD
 
-Manuscript, code and data for
+Code and data for
 
 > P. Yousefi, M. Haghparast and T. Mikkonen, *Self-phase-modulation-assisted differential-phase-shift
 > quantum key distribution: a weak-Kerr enhancement window under restricted eavesdropping*
