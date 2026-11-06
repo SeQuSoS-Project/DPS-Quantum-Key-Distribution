@@ -11,7 +11,6 @@ Every number, table and figure in the manuscript can be regenerated from this re
 ## Layout
 
 ```
-paper/main.tex              manuscript (LaTeX, article class)
 paper/figures/              all figures (PDF for the paper, PNG previews)
 code/                       Python code
 data/                       computed data behind the figures and tables
@@ -51,4 +50,4 @@ python3 code/kerr_finite_key_budget.py code data
 python3 code/plot_finite_key_budget.py .
 ```
 
-Figure 1 is drawn with TikZ inside `paper/main.tex`.
+Figure 1 is a TikZ diagram in the manuscript.
